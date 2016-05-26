@@ -1,0 +1,9 @@
+# Config file
+
+weka_path : /home/leo/dev/weka/*
+data : fights_training.arff
+class_index : 1
+class_values :
+  - W
+  - L 
+  - D
